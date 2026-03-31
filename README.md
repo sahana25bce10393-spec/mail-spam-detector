@@ -126,7 +126,6 @@ The following models are trained and evaluated:
 
 ```bash
 git clone https://github.com/sahana25bce10393-spec/mail-spam-detector.git
-cd sms-spam-detection-ml
 ```
 
 ### Step 2: Install Dependencies
