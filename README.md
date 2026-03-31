@@ -180,6 +180,4 @@ sms-spam-detection-ml/
 
 ---
 
-## 📜 License
 
-This project is for educational purposes only.
